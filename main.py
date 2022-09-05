@@ -6,6 +6,7 @@
 
 # Version Control System = VCS
 
+# def - объявление функции
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hello, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
