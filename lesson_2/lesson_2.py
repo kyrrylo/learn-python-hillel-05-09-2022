@@ -81,7 +81,7 @@ My name is Kyrylo
     print('Is digit', s, s.isdigit())
     print('Is numeric', s, s.isnumeric())
     print('Is decimal', s, s.isdecimal())
-    print('Python 3'.strip('_'))
+    print('Python__'.strip('_'))
 
     s = 'I am from Ukraine'
     s = s.replace('Ukraine', 'Kharkiv')
