@@ -1,0 +1,7 @@
+This is my text file
+This is next line of my file
+And another one
+
+This is last line of my file
+Oh no, this is the last one!
+Bye
