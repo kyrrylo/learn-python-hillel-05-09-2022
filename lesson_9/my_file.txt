@@ -1,0 +1,6 @@
+!!  This is my text file, isn't it?
+??? Hello, this is next line of my file??????
+ And another one, yes!
+    This is last line of my file...eeeeeeeeeeeeeeeeee
+Oh no, this is the last one!bbbbbbbbbbbbbbbbbbb
+ ...Bye, see you next time!aaaaaaaaaaaaaaaaaaaaaa
