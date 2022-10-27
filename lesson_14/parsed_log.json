@@ -1,0 +1,380 @@
+[
+    {
+        "datetime": "2022-10-27 20:59:12,321",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 20:59:15,312",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 20:59:17,704",
+        "position": "Waiter",
+        "name": "Neil",
+        "location": "Кухня"
+    },
+    {
+        "datetime": "2022-10-27 20:59:22,548",
+        "position": "Security",
+        "name": "John",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 20:59:25,159",
+        "position": "Security",
+        "name": "John",
+        "location": "Зона клиентов"
+    },
+    {
+        "datetime": "2022-10-27 20:59:29,738",
+        "position": "Waiter",
+        "name": "Sophia",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 20:59:31,424",
+        "position": "Waiter",
+        "name": "Sophia",
+        "location": "Зона отдыха (курилка)"
+    },
+    {
+        "datetime": "2022-10-27 20:59:33,424",
+        "position": "Waiter",
+        "name": "Mike",
+        "location": "Зона клиентов"
+    },
+    {
+        "datetime": "2022-10-27 20:59:37,858",
+        "position": "Waiter",
+        "name": "Sophia",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 20:59:43,072",
+        "position": "Waiter",
+        "name": "Sophia",
+        "location": "Зона клиентов"
+    },
+    {
+        "datetime": "2022-10-27 20:59:48,412",
+        "position": "Security",
+        "name": "Mark",
+        "location": "Зона клиентов"
+    },
+    {
+        "datetime": "2022-10-27 20:59:53,613",
+        "position": "Security",
+        "name": "John",
+        "location": "Зона отдыха (курилка)"
+    },
+    {
+        "datetime": "2022-10-27 20:59:55,973",
+        "position": "Waiter",
+        "name": "Mike",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 20:59:58,889",
+        "position": "Waiter",
+        "name": "Julia",
+        "location": "Зона отдыха (курилка)"
+    },
+    {
+        "datetime": "2022-10-27 21:00:00,850",
+        "position": "Waiter",
+        "name": "Neil",
+        "location": "Кухня"
+    },
+    {
+        "datetime": "2022-10-27 21:00:04,508",
+        "position": "Security",
+        "name": "Mark",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 21:00:08,412",
+        "position": "Security",
+        "name": "Mark",
+        "location": "Технический Сан-Узел"
+    },
+    {
+        "datetime": "2022-10-27 21:00:13,182",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 21:00:17,905",
+        "position": "Waiter",
+        "name": "Neil",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 21:00:23,221",
+        "position": "Waiter",
+        "name": "Sophia",
+        "location": "Зона клиентов"
+    },
+    {
+        "datetime": "2022-10-27 21:00:27,812",
+        "position": "Waiter",
+        "name": "Neil",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 21:00:31,978",
+        "position": "Waiter",
+        "name": "Julia",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 21:00:35,354",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Технический Сан-Узел"
+    },
+    {
+        "datetime": "2022-10-27 21:00:39,176",
+        "position": "Security",
+        "name": "John",
+        "location": "Зона отдыха (курилка)"
+    },
+    {
+        "datetime": "2022-10-27 21:00:40,533",
+        "position": "Security",
+        "name": "John",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 21:00:45,516",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Кухня"
+    },
+    {
+        "datetime": "2022-10-27 21:00:46,805",
+        "position": "Security",
+        "name": "Mark",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 21:00:50,671",
+        "position": "Waiter",
+        "name": "Julia",
+        "location": "Технический Сан-Узел"
+    },
+    {
+        "datetime": "2022-10-27 21:00:53,870",
+        "position": "Security",
+        "name": "Mark",
+        "location": "Технический Сан-Узел"
+    },
+    {
+        "datetime": "2022-10-27 21:00:55,729",
+        "position": "Waiter",
+        "name": "Mike",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 21:01:00,103",
+        "position": "Waiter",
+        "name": "Julia",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 21:01:05,256",
+        "position": "Waiter",
+        "name": "Mike",
+        "location": "Технический Сан-Узел"
+    },
+    {
+        "datetime": "2022-10-27 21:01:08,544",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Зона клиентов"
+    },
+    {
+        "datetime": "2022-10-27 21:01:11,226",
+        "position": "Waiter",
+        "name": "Sophia",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 21:01:16,152",
+        "position": "Waiter",
+        "name": "Mike",
+        "location": "Зона отдыха (курилка)"
+    },
+    {
+        "datetime": "2022-10-27 21:01:20,372",
+        "position": "Waiter",
+        "name": "Sophia",
+        "location": "Технический Сан-Узел"
+    },
+    {
+        "datetime": "2022-10-27 21:01:24,674",
+        "position": "Waiter",
+        "name": "Sophia",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 21:01:29,379",
+        "position": "Security",
+        "name": "Mark",
+        "location": "Зона отдыха (курилка)"
+    },
+    {
+        "datetime": "2022-10-27 21:01:30,516",
+        "position": "Waiter",
+        "name": "Mike",
+        "location": "Технический Сан-Узел"
+    },
+    {
+        "datetime": "2022-10-27 21:01:34,275",
+        "position": "Waiter",
+        "name": "Neil",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 21:01:36,908",
+        "position": "Waiter",
+        "name": "Mike",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 21:01:39,250",
+        "position": "Waiter",
+        "name": "Sophia",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 21:01:40,701",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Зона отдыха (курилка)"
+    },
+    {
+        "datetime": "2022-10-27 21:01:44,290",
+        "position": "Waiter",
+        "name": "Sophia",
+        "location": "Кухня"
+    },
+    {
+        "datetime": "2022-10-27 21:01:45,593",
+        "position": "Security",
+        "name": "John",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 21:01:50,977",
+        "position": "Waiter",
+        "name": "Mike",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 21:01:55,727",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Охранная будка"
+    },
+    {
+        "datetime": "2022-10-27 21:01:59,139",
+        "position": "Waiter",
+        "name": "Sophia",
+        "location": "Зона отдыха (курилка)"
+    },
+    {
+        "datetime": "2022-10-27 21:02:03,609",
+        "position": "Security",
+        "name": "Mark",
+        "location": "Кухня"
+    },
+    {
+        "datetime": "2022-10-27 21:02:05,905",
+        "position": "Security",
+        "name": "John",
+        "location": "Зона клиентов"
+    },
+    {
+        "datetime": "2022-10-27 21:02:08,511",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Кухня"
+    },
+    {
+        "datetime": "2022-10-27 21:02:12,618",
+        "position": "Waiter",
+        "name": "Julia",
+        "location": "Зона отдыха (курилка)"
+    },
+    {
+        "datetime": "2022-10-27 21:02:13,759",
+        "position": "Security",
+        "name": "Mark",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 21:02:16,605",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 21:02:21,854",
+        "position": "Waiter",
+        "name": "Mike",
+        "location": "Зона клиентов"
+    },
+    {
+        "datetime": "2022-10-27 21:02:23,332",
+        "position": "Security",
+        "name": "Mark",
+        "location": "Кухня"
+    },
+    {
+        "datetime": "2022-10-27 21:02:28,164",
+        "position": "Waiter",
+        "name": "Mike",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 21:02:32,723",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Склад"
+    },
+    {
+        "datetime": "2022-10-27 21:02:36,427",
+        "position": "Waiter",
+        "name": "Sophia",
+        "location": "Зона отдыха (курилка)"
+    },
+    {
+        "datetime": "2022-10-27 21:02:42,338",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Кухня"
+    },
+    {
+        "datetime": "2022-10-27 21:02:45,352",
+        "position": "Security",
+        "name": "Mark",
+        "location": "Зона отдыха (курилка)"
+    },
+    {
+        "datetime": "2022-10-27 21:02:48,150",
+        "position": "Chief",
+        "name": "Lora",
+        "location": "Зона отдыха (курилка)"
+    },
+    {
+        "datetime": "2022-10-27 21:02:50,271",
+        "position": "Security",
+        "name": "John",
+        "location": "Склад"
+    }
+]
