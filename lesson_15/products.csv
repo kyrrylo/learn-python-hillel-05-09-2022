@@ -1,0 +1,4 @@
+category,name,Price,Quantity,additional_fields
+Телевізори,Samsung UE43AU7100UXUA,18000,12,|{"Brand": "Samsung", "Diagonal, inches": 43, "SmartTV": true}|
+Телевізори,LG UA...,16500,5,|{"Brand": "LG", "Diagonal, inches": 39, "SmartTV": true}|
+Навушники,Apple Air Pods,9500,59,|{"Brand": "Apple", "Bluetooth": true, "Headphone type": "вкладыши", "Battery, hours": 6}|
