@@ -1,7 +1,5 @@
-import locations
-from chief import Chief
-from security import Security
-from waiter import Waiter
+from locations import ClientZone, WC, SmokingRoom, Kitchen, SecurityRoom, Warehouse
+from employees import Waiter, Chief, Security
 from random import choice, random
 from time import sleep
 import logging
@@ -24,12 +22,12 @@ sh.setFormatter(formatter)
 if __name__ == '__main__':
     # наше заведение
     location_list = [
-        locations.client_zone.ClientZone.name,
-        locations.kitchen.Kitchen.name,
-        locations.security_room.SecurityRoom.name,
-        locations.smoking_room.SmokingRoom.name,
-        locations.warehouse.Warehouse.name,
-        locations.wc.WC.name
+        ClientZone.name,
+        Kitchen.name,
+        SecurityRoom.name,
+        SmokingRoom.name,
+        Warehouse.name,
+        WC.name
     ]
 
     # его работники
