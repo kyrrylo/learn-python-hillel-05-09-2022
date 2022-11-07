@@ -52,20 +52,34 @@ if __name__ == '__main__':
         sleep(random() * 5 + 1)
 
 
-"""
-подсказка для последнего домашнего
+
+# подсказка для последнего домашнего
 menu = list()
-    for row in all_rows_in_json_or_csv_file:
-        if row['category'] == 'TV':
-            obj = TV()
-        elif row['category'] == 'Headset':
-            obj = Headset()
-        menu.append(obj)
-        
+for row in all_rows_in_json_or_csv_file:
+    if row['category'] == 'TV':
+        obj = TV()
+    elif row['category'] == 'Headset':
+        obj = Headset()
+    menu.append(obj)
+
+
+last_shown_objects = menu.copy()
+while True:
+    print(last_shown_objects)
+
+    input('По какому полю фильтровать')
+    """
+    1. TV Samsung 10 000
+    2. TV Samsung 20 000
+    3. TV Samsung 16 000
+    price: > 15 000
+    """
+    input('*вывод содержимого поля фильтра (например список доступных категорий)* Пользователь, введите по какому значению из доступных фильтровать:')
     filter = ('category', 'TV')
     filtered_objects = list()
     if filter[0] == 'category':
-        for obj in menu:
+        for obj in last_shown_objects:
             if obj.category == filter[1]:
                 filtered_objects.append(obj)
-"""
+
+    last_shown_objects = filtered_objects.copy()
