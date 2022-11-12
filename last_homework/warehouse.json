@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "category": "TV",
+      "name": "543FHD21B",
+      "price": 9999,
+      "quantity": 22,
+      "brand": "Vinga",
+      "diagonal": 43,
+      "resolution": "FullHD"
+    },
+    {
+      "category": "TV",
+      "name": "565UHD22B",
+      "price": 19999,
+      "quantity": 31,
+      "brand": "Vinga",
+      "diagonal": 65,
+      "resolution": "4K"
+    },
+    {
+      "category": "TV",
+      "name": "UE50AU1700UXUA",
+      "price": 20699,
+      "quantity": 5,
+      "brand": "Samsung",
+      "diagonal": 50,
+      "resolution": "4K"
+    },
+    {
+      "category": "TV",
+      "name": "UE32TS300AUXUA",
+      "price": 12899,
+      "quantity": 0,
+      "brand": "Samsung",
+      "diagonal": 32,
+      "resolution": "FullHD"
+    },
+    {
+      "category": "Laptop",
+      "name": "IdeaPad Gaming 3",
+      "price": 41999,
+      "quantity": 8,
+      "brand": "Lenovo",
+      "processor": "Intel Core i5",
+      "ram": 16
+    },
+    {
+      "category": "Laptop",
+      "name": "ExpertBook B1",
+      "price": 23499,
+      "quantity": 2,
+      "brand": "ASUS",
+      "processor": "Intel Core i3",
+      "ram": 8
+    },
+    {
+      "category": "Laptop",
+      "name": "TUF Gaming F15",
+      "price": 42999,
+      "quantity": 15,
+      "brand": "ASUS",
+      "processor": "Intel Core i7",
+      "ram": 16
+    },
+    {
+      "category": "Laptop",
+      "name": "ProBook 640",
+      "price": 41655,
+      "quantity": 3,
+      "brand": "HP",
+      "processor": "Intel Core i5",
+      "ram": 8
+    },
+    {
+      "category": "Mouse",
+      "name": "M185",
+      "price": 649,
+      "quantity": 90,
+      "brand": "Logitech",
+      "connection_type": "wireless",
+      "button_count": 3
+    },
+    {
+      "category": "Mouse",
+      "name": "Rival 3 Black",
+      "price": 1699,
+      "quantity": 52,
+      "brand": "SteelSeries",
+      "connection_type": "wired",
+      "button_count": 6
+    },
+    {
+      "category": "Mouse",
+      "name": "MX Master 3 Graphite",
+      "price": 4899,
+      "quantity": 9,
+      "brand": "Logitech",
+      "connection_type": "wireless",
+      "button_count": 6
+    },
+    {
+      "category": "Mouse",
+      "name": "MSG-200 Black",
+      "price": 349,
+      "quantity": 35,
+      "brand": "Vinga",
+      "connection_type": "wired",
+      "button_count": 8
+    },
+    {
+      "category": "Keyboard",
+      "name": "Cynosa Lite Chroma",
+      "price": 1599,
+      "quantity": 8,
+      "brand": "Razer",
+      "connection_type": "wired",
+      "backlight": true
+    },
+    {
+      "category": "Keyboard",
+      "name": "G915 Lightspeed",
+      "price": 9499,
+      "quantity": 3,
+      "brand": "Logitech",
+      "connection_type": "wireless",
+      "backlight": true
+    },
+    {
+      "category": "Keyboard",
+      "name": "KV-300H",
+      "price": 1279,
+      "quantity": 12,
+      "brand": "A4Tech",
+      "connection_type": "wired",
+      "backlight": false
+    },
+    {
+      "category": "Keyboard",
+      "name": "K589 Slim Multi-Device",
+      "price": 2499,
+      "quantity": 12,
+      "brand": "Logitech",
+      "connection_type": "wireless",
+      "backlight": true
+    }
+  ]
+}
