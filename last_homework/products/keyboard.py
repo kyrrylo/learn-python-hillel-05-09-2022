@@ -3,6 +3,12 @@ from .product import Product
 
 class Keyboard(Product):
     def __init__(self, connection_type: str, backlight: bool, **kwargs):
+        """
+        Товар категории клавиатура
+        :param connection_type: тип подключения
+        :param backlight: наличие подсветки
+        :param kwargs: параметры для базового класса, которые в него передаются
+        """
         super().__init__(**kwargs)
         self.connection_type = connection_type
         self.backlight = backlight
